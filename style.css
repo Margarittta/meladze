@@ -1,0 +1,40 @@
+body {
+    background-image: url(meladze2.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 10px;
+}
+
+.audio {
+    width: 35%;
+    height: 12vh;
+    margin: 2px;
+    text-align: center;
+    background-color: rgb(170, 164, 155);
+    font-size: larger;
+}
+
+video {
+    width: 30%;
+    height: 50vh;
+    margin: 7px;
+    float: left;
+}
+/*назва для кліпу*/
+.title {
+    font-weight: bolder;
+    font-size: larger;
+    padding: 5px;
+}
+/*карта*/
+.container {
+    margin: 15px;
+    justify-content: center;
+}
